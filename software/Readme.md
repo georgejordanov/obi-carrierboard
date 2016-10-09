@@ -1,3 +1,3 @@
 # Obi Carrier Board - Software
 
-Put hardware related resources in here
+Put software related resources in here
